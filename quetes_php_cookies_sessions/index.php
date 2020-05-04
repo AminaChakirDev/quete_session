@@ -1,10 +1,10 @@
 <?php require 'inc/data/products.php'; ?>
 <?php require 'inc/head.php'; ?>
 <?php
-if (empty($_SESSION['loginname'])) {
+/*if (empty($_SESSION['loginname'])) {
     header('Location: login.php');
     exit();
-}
+}*/
 
 ?>
 
